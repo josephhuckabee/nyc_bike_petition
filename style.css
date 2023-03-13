@@ -1,4 +1,30 @@
+*{
+    margin:0;
+
+}
+header{
+    background-color: #36AAF0;
+    padding: 10px;
+    font-size:24px;
+    width:100%;
+    /* position: fixed; */
+
+}
+
+.logo{
+    max-width:400px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+
 body{
+   
+}
+main{
     padding: 20px;
 }
 
